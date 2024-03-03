@@ -1,0 +1,1 @@
+The Smart Transportation Management System optimizes public transportation routes, schedules, and resources using IoT sensors, GPS tracking, and data analytics to improve efficiency, reduce congestion, and enhance passenger experience.

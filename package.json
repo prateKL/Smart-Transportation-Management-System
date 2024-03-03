@@ -1,0 +1,26 @@
+{
+"name": "blue-9opf1",
+"version": "1.0.0",
+"description": "The Smart Transportation Management System optimizes public transportation routes, schedules, and resources using IoT sensors, GPS tracking, and data analytics to improve efficiency, reduce congestion, and enhance passenger experience.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/prateKL/Smart-Transportation-Management-System.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "prateKL",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
